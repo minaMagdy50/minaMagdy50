@@ -30,10 +30,5 @@ I’ve worked on a variety of projects, including **e-commerce platforms**, **co
 
 ---
 
-🚀 **Let's build something amazing!**  
-
----
-
-## 🐍 GitHub Activity Snake  
-![Snake animation](https://raw.githubusercontent.com/minaMagdy50/minaMagdy50/output/snake.svg)
+🚀 **Let's build something amazing!**
 
