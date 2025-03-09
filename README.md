@@ -42,9 +42,9 @@ I’ve worked on a variety of projects, including **e-commerce platforms**, **co
 ---
 
 ## 📫 Connect with Me  
-- **Portfolio:** [[your-portfolio-link]](https://mina-magdyy.vercel.app/)  
-- **LinkedIn:** [[your-linkedin-link]](www.linkedin.com/in/minamagdy010)  
-- **Email:** [your-email]magdymina583@gmail.com
+- **Portfolio:** [mina-magdyy.vercel.app](https://mina-magdyy.vercel.app/)  
+- **LinkedIn:** [linkedin.com/in/minamagdy010](https://www.linkedin.com/in/minamagdy010/)  
+- **Email:** [magdymina583@gmail.com](mailto:magdymina583@gmail.com)  
 
 ---
 
