@@ -23,24 +23,6 @@ I’ve worked on a variety of projects, including **e-commerce platforms**, **co
 
 ---
 
-## 📌 Featured Projects  
-### 👔 Hajjo  
-- A **suit-selling e-commerce platform** built with **React & Next.js**  
-- Optimized using **small, reusable components** for easy maintenance  
-- Responsive, fast, and designed for an intuitive user experience  
-
-### 🛍 Virtual Try-On  
-- AI-powered **virtual fitting room** for online shopping  
-- Users can try on clothes **before purchasing**  
-- Built with **React & AI integration**  
-
-### 💬 Real-Time Chat App  
-- Fully functional chat app with **real-time messaging**  
-- Supports **voice messages, image sharing**, and **organized UI**  
-- Built with **WebSockets & Firebase** for real-time updates  
-
----
-
 ## 📫 Connect with Me  
 - **Portfolio:** [mina-magdyy.vercel.app](https://mina-magdyy.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/minamagdy010](https://www.linkedin.com/in/minamagdy010/)  
