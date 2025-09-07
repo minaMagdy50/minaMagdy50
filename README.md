@@ -28,7 +28,7 @@ I’ve worked on a variety of projects, including **e-commerce platforms**, **co
 ### 🔗 [QR Share](https://qrshare-eta.vercel.app/)  
 A smart web app for sharing text or files (images, PDFs) via QR Code with secure, hidden data storage. Built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, and **Supabase**.  
 
-### 🔗 [Euphoria]  
+### 🔗 Euphoria
 A real estate company dashboard with live chat, real-time notifications using Firebase, custom charts, and a flexible layout. Built with **React**, **Axios**, and **Formik**.
 
 ### 🔗 [Pharos Website](https://pharos-user.web.app/)  
