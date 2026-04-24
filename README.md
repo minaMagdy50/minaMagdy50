@@ -1,7 +1,7 @@
 # Hi there, I'm Mina Magdy! 👋  
 
 ## 🚀 About Me  
-I'm a **Front-End Developer** with **3 years of experience**, specializing in **React.js and Next.js**. I have a strong passion for building **efficient, scalable, and user-friendly** web applications. My expertise lies in crafting clean, reusable components, optimizing performance, and ensuring a smooth user experience.  
+I'm a **Front-End Developer** with **5 years of experience**, specializing in **React.js and Next.js**. I have a strong passion for building **efficient, scalable, and user-friendly** web applications. My expertise lies in crafting clean, reusable components, optimizing performance, and ensuring a smooth user experience.  
 
 I’ve worked on a variety of projects, including **e-commerce platforms**, **company management systems**, and **real-time applications**. I take pride in **solving complex problems with JavaScript**, integrating AI into web applications, and continuously improving my skills to stay ahead in the industry.  
 
